@@ -8,8 +8,6 @@ package:
 source:
   url: https://github.com/redis/redis/archive/refs/tags/{{ version }}.tar.gz
   sha256: b594b6eae1a69fd1c081ebfcc9bd9bc9843ba120a2b3960c45f3eeee1f34e0e6
-  patches:
-    - patches/force_c11.patch  # [osx]
 
 build:
   skip: true  # [win]
