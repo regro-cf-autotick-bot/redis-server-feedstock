@@ -30,8 +30,7 @@ test:
 
 about:
   home: https://redis.io/
-  license: BSD-3-Clause
-  license_family: BSD
+  license: SSPL-1.0 OR LicenseRef-RSALv2
   license_file: COPYING
   summary: Advanced key-value cache and store
   description: |
