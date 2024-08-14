@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/redis-server-fe
 
 Home: https://redis.io/
 
-Package license: BSD-3-Clause
+Package license: SSPL-1.0 OR LicenseRef-RSALv2
 
 Summary: Advanced key-value cache and store
 
